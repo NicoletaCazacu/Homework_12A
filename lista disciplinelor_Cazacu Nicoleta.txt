@@ -1,0 +1,8 @@
+<HTML>
+<Head><Title>Lista disciplinelor studiate </Title> </Head>
+<Body>
+<H4> Definitiile disciplinelor studiate </H4>
+<DL>
+<DT> Biologia <DD> - Stiinta care studiaza viata organismelor vii-moleculara Ramura a biologiei  care studiaza moleculele ce alcatuiesc organismele celulare.
+ <DD>-Stiinta care studiaza manifestarile vietii din punct de vedere anatomic, fiziologic, zoologic etc. Stiinta organismelor vii, animale și vegetale.
+<DT> Chimia <DD> - Stiinta care studiaza compozitia, structura si proprietatile substantelor, transformarilor lor prin regruparea atomilor componenti, precum si combinatiile noi ale substantelor rezultate in urma acestor transformari. (Is) organica- parte a chimiei care se ocupa cu combinatiile unui singur element, carbonul, si cu putine alte elemente, în special cu hidrogenul, oxigenul, azotul și sulful, anorganica sau minerala Parte a chimiei  care studiază condițiile tuturor celorlalte elemente de care nu se ocupa chimia organica.  (Is)  fizica Parte a chimiei  care sistematizeaza materialul chimiei anorganice si al celei organice din punctul de vedere al proprietatilor substantelor, pe de o parte, si al transformarilor materiale, pe de alta parte.

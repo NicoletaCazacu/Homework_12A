@@ -1,0 +1,31 @@
+<HTML>
+<Head><Title>Liste ordonate si imbricate</Title></Head>
+<Body>
+<H4> Biserica Alba de Ion Druta </H4>
+<H4> Cuprins</H4>
+<OL type =I> 
+<LI> Nimic Sfant
+<LI> Ora imblanzirii cugetului
+<LI> Neprihanirea
+<LI> Fructul oprit
+<OL type=1>
+<H4>legenda ilustratiilor</H4>
+<LI> Troita. Capul lui Hristos.Fragment.Lemn
+<LI> Troita. Maica Domnului.Fragment.Piatra
+<LI> Troita. Maria Magdalena.Lemn.Pictura
+<LI> Troita. Ingerul.Fragment.Lemn.Pictura
+</OL>
+<P><LI> Steaua de la Bethlehem
+<LI> Ipohondria
+<LI> Balul puterii
+<LI> Poamele pamantului
+<LI> Faurirea imposibilului
+<LI> Miluirea
+<LI> Infrangerea
+<LI> Adio
+<LI> Urcarea intru vrednicie
+<LI> Botezul necredinciosilor
+<LI> Ultima danie
+<LI> Alb-albastru
+</Body></P>
+<HTML>
